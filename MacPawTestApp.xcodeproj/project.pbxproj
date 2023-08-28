@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6740CFBA2A9B4560006EE619 /* EnemyLossesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6740CFB92A9B4560006EE619 /* EnemyLossesModel.swift */; };
+		6740CFBC2A9B86A3006EE619 /* LossesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6740CFBB2A9B86A3006EE619 /* LossesView.swift */; };
+		6740CFBE2A9C1288006EE619 /* AllDaysView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6740CFBD2A9C1288006EE619 /* AllDaysView.swift */; };
 		6767549E2A93D5710033C704 /* MacPawTestAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6767549D2A93D5710033C704 /* MacPawTestAppApp.swift */; };
 		676754A02A93D5710033C704 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6767549F2A93D5710033C704 /* ContentView.swift */; };
 		676754A22A93D5720033C704 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 676754A12A93D5720033C704 /* Assets.xcassets */; };
@@ -14,6 +17,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6740CFB92A9B4560006EE619 /* EnemyLossesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnemyLossesModel.swift; sourceTree = "<group>"; };
+		6740CFBB2A9B86A3006EE619 /* LossesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LossesView.swift; sourceTree = "<group>"; };
+		6740CFBD2A9C1288006EE619 /* AllDaysView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllDaysView.swift; sourceTree = "<group>"; };
 		6767549A2A93D5710033C704 /* MacPawTestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacPawTestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6767549D2A93D5710033C704 /* MacPawTestAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacPawTestAppApp.swift; sourceTree = "<group>"; };
 		6767549F2A93D5710033C704 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +59,9 @@
 			children = (
 				6767549D2A93D5710033C704 /* MacPawTestAppApp.swift */,
 				6767549F2A93D5710033C704 /* ContentView.swift */,
+				6740CFB92A9B4560006EE619 /* EnemyLossesModel.swift */,
+				6740CFBD2A9C1288006EE619 /* AllDaysView.swift */,
+				6740CFBB2A9B86A3006EE619 /* LossesView.swift */,
 				676754A12A93D5720033C704 /* Assets.xcassets */,
 				676754A32A93D5720033C704 /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				676754A02A93D5710033C704 /* ContentView.swift in Sources */,
 				6767549E2A93D5710033C704 /* MacPawTestAppApp.swift in Sources */,
+				6740CFBA2A9B4560006EE619 /* EnemyLossesModel.swift in Sources */,
+				6740CFBC2A9B86A3006EE619 /* LossesView.swift in Sources */,
+				6740CFBE2A9C1288006EE619 /* AllDaysView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
